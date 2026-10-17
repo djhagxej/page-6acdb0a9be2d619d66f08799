@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "32a87dfe156ba3015aa26949",
+  "owner": "djhagxej",
+  "repo": "page-6acdb0a9be2d619d66f08799",
+  "title": "飞天网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6acdb0a9be2d619d66f08799",
+      "a": "飞天网络",
+      "b": "",
+      "entity": "飞天网络",
+      "brand": "飞天网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9a59bd58a49a8aa813a82ee9344c6b96301caa364ce9d85f4b0f0cdebbf4262f",
+      "content": {
+        "keyword1": "飞天网络",
+        "keyword2": "",
+        "primary_entity": "飞天网络",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "飞天网络提供新一代高品质网络连接与数据传输解决方案，以严谨的技术架构与贴心的多端支持，满足各类场景下的稳定通信需求。",
+          "AI_DESCRIPTION": "飞天网络提供新一代高品质网络连接与数据传输解决方案，以严谨的技术架构与贴心的多端支持，满足各类场景下的稳定通信需求。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #fcfbf7;--panel-bg: #f4f2e6;--primary: #123524;--accent: #2e6f40;--text-main: #1c2b22;--text-muted: #526359;--border-color: #d8d4c2;--white: #ffffff}\n\n* {box-sizing: border-box;margin: 0;padding: 0}\n\nbody {background-color: var(--bg-color);color: var(--text-main);font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif;line-height: 1.7;padding: 0 1.5rem}\n\nheader {max-width: 1200px;margin: 2rem auto;padding-bottom: 1rem;border-bottom: 1px solid var(--border-color)}\n\n.breadcrumb-nav {display: flex;justify-content: space-between;align-items: center;flex-wrap: wrap;gap: 1rem;font-size: 0.9rem;color: var(--text-muted)}\n\n.breadcrumb-nav span {font-weight: 500;color: var(--primary)}\n\n.toc-links {display: flex;gap: 1.5rem;list-style: none}\n\n.toc-links a {color: var(--primary);text-decoration: none;font-weight: 500}\n\n.toc-links a:hover {text-decoration: underline}\n\nmain {max-width: 1200px;margin: 0 auto 4rem auto}\n\n.hero-section {display: grid;grid-template-columns: 320px 1fr;gap: 4rem;align-items: start;margin: 4rem 0 6rem 0}\n\n@media (max-width: 900px) {\n  .hero-section {grid-template-columns: 1fr;gap: 2rem}\n}\n\n.hero-left {position: sticky;top: 2rem}\n\n.hero-left h1 {font-size: 2.8rem;color: var(--primary);line-height: 1.1;margin-bottom: 1rem;letter-spacing: -0.02em}\n\n.hero-left p {color: var(--text-muted);font-size: 1.05rem;margin-bottom: 2rem}\n\n.hero-right {background-color: var(--panel-bg);border: 1px solid var(--border-color);padding: 3rem;position: relative}\n\n.hero-right h2 {font-size: 1.8rem;color: var(--primary);margin-bottom: 1.5rem}\n\n.hero-right p {margin-bottom: 1.5rem;color: var(--text-main)}\n\n.section-block {margin: 6rem 0}\n\n.section-block h2 {font-size: 2rem;color: var(--primary);margin-bottom: 2.5rem;border-left: 4px solid var(--accent);padding-left: 1rem}\n\n.grid-2 {display: grid;grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));gap: 2rem}\n\n.card {background-color: var(--white);border: 1px solid var(--border-color);padding: 2.5rem;position: relative;overflow: hidden}\n\n.card-number {position: absolute;right: -10px;bottom: -20px;font-size: 6rem;font-weight: 900;color: rgba(18, 53, 36, 0.04);z-index: 0;pointer-events: none}\n\n.card-content {position: relative;z-index: 1}\n\n.card h3 {font-size: 1.4rem;color: var(--primary);margin-bottom: 1rem}\n\n.card p {color: var(--text-muted)}\n\n.plans-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 2rem}\n\n@media (max-width: 768px) {\n  .plans-grid {grid-template-columns: 1fr}\n}\n\n.plan-card {background-color: var(--white);border: 1px solid var(--border-color);padding: 2.5rem;display: flex;flex-direction: column;justify-content: space-between;position: relative}\n\n.plan-card.featured {border: 2px solid var(--accent);background-color: var(--panel-bg)}\n\n.featured-badge {position: absolute;top: -12px;right: 2rem;background-color: var(--accent);color: var(--white);font-size: 0.8rem;padding: 0.2rem 0.8rem;font-weight: bold}\n\n.plan-card h3 {font-size: 1.5rem;color: var(--primary);margin-bottom: 0.5rem}\n\n.plan-price {font-size: 2rem;font-weight: bold;color: var(--primary);margin: 1rem 0}\n\n.plan-price span {font-size: 0.9rem;font-weight: normal;color: var(--text-muted)}\n\n.plan-features {list-style: none;margin: 1.5rem 0 2rem 0}\n\n.plan-features li {padding: 0.5rem 0;border-bottom: 1px dashed var(--border-color);color: var(--text-main);font-size: 0.95rem}\n\n.btn {display: inline-block;background-color: var(--primary);color: var(--white);padding: 0.8rem 1.5rem;text-decoration: none;text-align: center;font-weight: 500;border: none;cursor: pointer}\n\n.btn:hover {background-color: var(--accent)}\n\n.chat-faq {display: flex;flex-direction: column;gap: 2rem}\n\n.chat-bubble {max-width: 80%;padding: 1.5rem;border: 1px solid var(--border-color)}\n\n.chat-question {align-self: flex-start;background-color: var(--panel-bg);border-top-left-radius: 0}\n\n.chat-answer {align-self: flex-end;background-color: var(--white);border-top-right-radius: 0}\n\n.chat-bubble h3 {font-size: 1.1rem;color: var(--primary);margin-bottom: 0.5rem}\n\n.chat-bubble p {color: var(--text-muted)}\n\nfooter {max-width: 1200px;margin: 0 auto 3rem auto;padding-top: 2rem;border-top: 1px solid var(--border-color);display: flex;justify-content: space-between;align-items: center;color: var(--text-muted);font-size: 0.9rem;flex-wrap: wrap;gap: 1rem}\n</style><header>\n  <nav class=\"breadcrumb-nav\">\n    <div><span>飞天网络</span> / 方案索引页</div>\n    <ul class=\"toc-links\">\n      <li><a href=\"#about\">关于我们</a></li>\n      <li><a href=\"#plans\">服务套餐</a></li>\n      <li><a href=\"#faq\">常见问题</a></li>\n    </ul>\n  </nav>\n</header>\n\n<main>\n  <div class=\"hero-section\">\n    <div class=\"hero-left\">\n      <h1>飞天网络</h1>\n      <p>探索清晰、稳定且严谨的下一代网络服务架构，为您带来卓越的数据传输体验。</p>\n    </div>\n    <div class=\"hero-right\">\n      <h2>您是否在寻找更可靠的连接方案？</h2>\n      <p>在日常工作与多媒体应用中，不稳定的链路常常导致效率低下。飞天网络通过科学的架构规划，精细优化网络路由，确保每一次数据传输都准确、顺畅、持久。</p>\n      <p>我们采用克制而高效的设计理念，不追求浮夸的宣传，只用扎实的技术指标与直观的配置体验说话。</p>\n      <a href=\"#plans\" class=\"btn\">查看精选套餐</a>\n    </div>\n  </div>\n\n  <section id=\"about\" class=\"section-block\">\n    <h2>核心能力与设计理念</h2>\n    <div class=\"grid-2\">\n      <div class=\"card\">\n        <div class=\"card-number\">01</div>\n        <div class=\"card-content\">\n          <h3>多端兼容与协同</h3>\n          <p>无论您使用的是桌面端、移动端还是各类定制设备，飞天网络均提供全方位的连接适配，实现多台设备同时在线的高效协同。</p>\n        </div>\n      </div>\n      <div class=\"card\">\n        <div class=\"card-number\">02</div>\n        <div class=\"card-content\">\n          <h3>专线品质优化</h3>\n          <p>基于高质量网络骨干节点进行深度优化，在保证数据传输安全性的同时，显著降低延迟波动，为高负载业务提供坚实支撑。</p>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\" class=\"section-block\">\n    <h2>服务套餐与配置</h2>\n    <div class=\"plans-grid\">\n      <div class=\"plan-card\">\n        <div>\n          <h3>基础版</h3>\n          <div class=\"plan-price\">¥15/月 <span>(按年付 ¥150/年)</span></div>\n          <ul class=\"plan-features\">\n            <li>每月 100GB 极速流量</li>\n            <li>支持 3 台设备同时在线</li>\n            <li>解锁基础流媒体</li>\n            <li>普通线路节点池</li>\n          </ul>\n        </div>\n        <a href=\"#\" class=\"btn\">选择基础版</a>\n      </div>\n\n      <div class=\"plan-card featured\">\n        <div class=\"featured-badge\">推荐选择</div>\n        <div>\n          <h3>旗舰版</h3>\n          <div class=\"plan-price\">¥35/月 <span>(按年付 ¥350/年)</span></div>\n          <ul class=\"plan-features\">\n            <li>每月 300GB 极速流量</li>\n            <li>支持 5 台设备同时在线</li>\n            <li>全节点原生流媒体解锁</li>\n            <li>IPLC 专线游戏加速优化</li>\n            <li>7x24 优先工单支持</li>\n          </ul>\n        </div>\n        <a href=\"#\" class=\"btn\">选择旗舰版</a>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\" class=\"section-block\">\n    <h2>常见问题引导</h2>\n    <div class=\"chat-faq\">\n      <div class=\"chat-bubble chat-question\">\n        <h3>我想了解飞天网络适合哪些应用场景？</h3>\n        <p>飞天网络主要面向需要稳定数据传输、跨区域流畅访问及多设备协同的个人与团队用户。通过精选节点与专线优化，能够有效改善高延迟及连接中断的问题。</p>\n      </div>\n\n      <div class=\"chat-bubble chat-answer\">\n        <h3>如何开始使用并配置相关客户端？</h3>\n        p&gt;您可以直接选择适合的套餐，订阅后系统将自动生成对应的配置指引与客户端连接参数。按照文档指引几分钟即可轻松完成部署。\n      </div>\n\n      <div class=\"chat-bubble chat-question\">\n        <h3>如果遇到连接不稳定或流量不足该怎么办？</h3>\n        <p>旗舰版与团队版用户享有优先的工单支持服务。若遇到任何网络波折，可随时提交工单，我们的技术团队将协助您进行线路排查与节点调整。</p>\n      </div>\n    </div>\n  </section>\n</main>\n\n<footer>\n  <div>© 飞天网络 版权所有</div>\n  <div>追求清晰稳健的网络连接方案</div>\n</footer>",
+          "hash": "ed50cb66662261f9957da09e75df1793c202018b33432d9270a6e411c3b1e53d",
+          "seo": {
+            "title": "飞天网络 - 新一代高品质网络连接与数据传输解决方案",
+            "keywords": "飞天网络, 数据传输, 网络连接, 专线优化, 稳定连接",
+            "description": "飞天网络提供新一代高品质网络连接与数据传输解决方案，以严谨的技术架构与贴心的多端支持，满足各类场景下的稳定通信需求。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "8974",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "5 奶油黄配墨绿",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "5 两栏对照配推荐标记",
+            "faq_view": "5 对话气泡式问答",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vytcjsm.cn",
+    "host": "p-8fe8cbd3e7.vytcjsm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "b88e861fa45dfb088b135ec4d47b74aeb6ed4fcdf12be495da2442bfc99b1c6c",
+    "sitemap.xml": "ecfa38d030c911ee3d93b2d398f0da1af53cea0f1719931259e15b9eadd6ec14",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ff2639e8b8754dfef5a143a09dcea524dfaf4efd8e3fc3a259d0886b76800d97",
+    "robots.txt": "778f83a9d33cb0095c908c507753b33d77682d14bb86d8f83e72cfc731932b0b",
+    "42c6ccb2de4d352d5ea32b4052e6e982.txt": "f655830ad5082cb0223d53a2d92b95af4b35cd82d57727d96be157dd2ad2e5b8"
+  },
+  "revision": "7093d22134abcbb0b7251bf7c563170e9beea9e1016fe43dff9385a95eb42c81"
+}
